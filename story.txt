@@ -3,3 +3,5 @@ Now we are adding more to commit an update to git
 Updatin for a 3rd time
 4th time
 5th update $ git commit -m "Commit message in quotes"
+Updating after branch add
+
